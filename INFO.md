@@ -1,2 +1,1 @@
-experiment with amend
-new edition
+New ignore INFO2
